@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-hi,take some error.
+Make a bmp and show some chinese characters.
